@@ -20,11 +20,10 @@ of lines, containing 361 points. Beginners often play on smaller 9×9 and 13×13
   #### human versus agents
   we implemented Two types of agents
   The first agent is the strongest. It was implemented using minimax alpha-beta search algorithms
-  The second agent is less powerful than the first. It was implemented using  minimax alpha-beta search algorithms by random number.
+  The second agent is less powerful than the first. It was implemented using heuristic search algorithms by random number.
 
 ### Contact
-This game was implemented with the contribution of my friend named Mohamed A.Shaker your profile link: 
-[https://github.com/Megamind22](https://github.com/Megamind22/Ai-GoGamePlayer)
+This game was implemented with the contribution of my friend named Mohamed A.Shaker
 where we worked as a team together.
 
 You can communicate by following e-mails If you have more questions about the project:
