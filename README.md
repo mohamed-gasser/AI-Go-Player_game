@@ -26,7 +26,8 @@ of lines, containing 361 points. Beginners often play on smaller 9×9 and 13×13
 This game was implemented with the contribution of my friend named Mohamed A.Shaker
 where we worked as a team together.
 
-You can communicate by following e-mails If you have more questions about the project:
+You can communicate by following e-mails If you have more questions about the project or to get the all src code :
+
 
 1- mohamedgasser230@gmail.com
 
